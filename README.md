@@ -183,15 +183,7 @@
 ![image](https://user-images.githubusercontent.com/40049149/186196727-0bbe52cb-5020-45a2-9096-613616b3d278.png)
 
 
-24. Selanjutnya masukan informasi seperti nama, username, dan password untuk server yang kalian buat. Jika sudah klik saja Done.
-​
-205
-Lalu akan muncul notifikasi untuk mengkonfirmasi semua konfigurasi yang sudah kita buat. Jika sudah langsung klik saja Continue.
-206
-​
-207
-​
-208
+24. Selanjutnya masukan informasi seperti nama, username, dan password untuk server yang kalian buat. Jika sudah klik saja Done. Lalu akan muncul notifikasi untuk mengkonfirmasi semua konfigurasi yang sudah kita buat. Jika sudah langsung klik saja Continue.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186197914-a609a464-0a93-4c8a-92e1-39cd75df591c.png)
