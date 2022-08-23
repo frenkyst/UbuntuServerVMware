@@ -132,6 +132,16 @@
 - __Gateway__ : Perangkat komputer yang berfungsi untuk mengkoneksikan sebuah Jaringan komputer terhadap satu jaringan komputer yang lain.
 - __Name servers__ : Dibagian __Name servers__ ini kalian cukup memasukkan IP DNS dari google supaya dapat terhubung dengan browser.
 
+![image](https://user-images.githubusercontent.com/40049149/186187779-a3c73bc0-eac9-44f9-8519-2620054e13da.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186187863-abbe4a67-ea19-4e37-b859-d602584db11e.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186187898-cdf40983-19c1-4ea2-9f3e-544fa9631847.png)
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/40049149/186174367-71dd173e-8d18-47cd-883f-ba2e84f111b6.png)
 
