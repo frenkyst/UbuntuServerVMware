@@ -61,7 +61,45 @@
   - Kalau Menggunakan __Bridge__ nantinya server yang kita buat akan mendapatkan IP dari internet yang sedang kita gunakan.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186171320-2770ff36-9c85-4b8d-a0f5-34f86bfe70bb.png)
+![image](https://user-images.githubusercontent.com/40049149/186171498-3f2b3462-7219-4e4b-994b-3a49bbed0881.png)
+
+
+      Jika sudah langsung klik saja Close.
+
+9. Setelah nanti kalian akan di kembalikan ke halamannya sebelumnya dengan perubahan yang di seting, setelah itu tekan saja di bagian Finish.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186171852-3694604c-b4b6-48f5-ae1e-f5081ea7486c.png)
+![image](https://user-images.githubusercontent.com/40049149/186172250-2a550167-bdc8-4c7d-a6b4-5cd7b63a4f24.png)
+
+      Jika muncul seperti di gambar klik saja Close.
+
+
+10. Klik OK jika muncul notif berikut dan akan langsung di arahkan ke bagian installasi, disini kalian tunggu saja sampai prosesnya selesai.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186173167-92ec9798-74fb-40eb-91e3-3fdcf883f459.png)
+![image](https://user-images.githubusercontent.com/40049149/186173363-012e7046-8e9a-4d8e-be21-28b3783f8b9f.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186173511-389e578a-3311-443b-a49f-8b0e2edd08c3.png)
+
+
+11. Jika muncul tampilan seperti gambar dibawah ini. Setelah itu pilih bahasa yang ingin digunakan English.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186173710-b5525f78-025c-4c9c-8ab3-cdb43b8261bd.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186174033-7652aafd-4625-496d-8e7d-4fbb31c745c0.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186174164-a8c31518-0d16-42de-84a0-be0ed2cc3d3e.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186174246-451cb83b-a9c3-4141-943f-48b4ff07cfa3.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186174367-71dd173e-8d18-47cd-883f-ba2e84f111b6.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186174455-4ad5d706-4792-4c71-9bfe-cfe082b6eac8.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186174545-6b5f6efc-cc95-4a2c-afe7-c3f96da76640.png)
 
 
 
