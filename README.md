@@ -132,36 +132,35 @@
 - __Gateway__ : Perangkat komputer yang berfungsi untuk mengkoneksikan sebuah Jaringan komputer terhadap satu jaringan komputer yang lain.
 - __Name servers__ : Dibagian __Name servers__ ini kalian cukup memasukkan IP DNS dari google supaya dapat terhubung dengan browser.
 
-![image](https://user-images.githubusercontent.com/40049149/186187779-a3c73bc0-eac9-44f9-8519-2620054e13da.png)
+![image](https://user-images.githubusercontent.com/40049149/186194609-b6c601c8-b92d-4587-b2c4-45ad46628501.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186187863-abbe4a67-ea19-4e37-b859-d602584db11e.png)
+![image](https://user-images.githubusercontent.com/40049149/186194661-be9df4d7-2d51-4bf5-9f90-6e3e6d665827.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186187898-cdf40983-19c1-4ea2-9f3e-544fa9631847.png)
+![image](https://user-images.githubusercontent.com/40049149/186194885-5b065d78-e6f3-47b7-b0fb-a8ec25fb934d.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186189397-e17b98d1-bd9b-4bec-9ea7-e747b9cd1537.png)
 
 18. Jika konfigurasi sudah selesai maka akan ada perubahan di bagian __DHCPv4__ tadi menjadi __static__.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186189567-62480450-708e-4954-8d95-068ee271f734.png)
+![image](https://user-images.githubusercontent.com/40049149/186195038-57feb6f7-7c11-47fc-8968-fd772c741e6e.png)
 
 
 19. Pada tahap selanjutnya kalian bisa skip dengan klik Done.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186189870-a960b4ea-1803-435d-b73a-870846523e65.png)
+![image](https://user-images.githubusercontent.com/40049149/186195404-98249148-21c6-4b89-8caf-8a61785ec7a4.png)
 
 
 20. Pada tahap selanjutnya kalian bisa skip dengan klik Done.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186190231-991c5a41-c09c-4d81-824f-7ba4f37493cc.png)
+![image](https://user-images.githubusercontent.com/40049149/186195452-4c2200d5-df95-4760-97b7-a1b518c5daf9.png)
 
 
 21. Disini kita dapat memilih bagian Custom storage layout. Kenapa kita memilih Custom storage layout karena kita akan membuat 2 buah partisi, jika sudah kalian pilih setelah itu langsung saja klik Done.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186191873-036b19b0-f470-4294-bc4d-2ff164900b4d.png)
+![image](https://user-images.githubusercontent.com/40049149/186195591-d372386a-28dc-4b7e-87e9-257824d38962.png)
 
 
 22. Selanjutnya disini kita akan membuat 2 buah partisi untuk root dan swap. Langsung pilih saja di bagian /dev/sda lalu pilih di bagian Add GPT Partition. Untuk kapasitasnya kalian bisa samakan saja dengan gambar dibawah (kecuali untuk swap, kalian bisa setting semau kalian apabila merasa kurang).
