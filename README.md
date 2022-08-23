@@ -213,6 +213,11 @@
 ![image](https://user-images.githubusercontent.com/40049149/186215908-b0bc3c8b-5953-402a-9758-4ef621b738f3.png)
 
 
+29. Jika tahapan installasi sudah selesai. Masukkan __id__ beserta __password__ yang sudah kalian set-up sebelumnya, Jika sudah maka kalian telah berhasil melakukan instalasi ubuntu server.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186217268-36f985b3-cd90-432e-a193-4b957f4edfa4.png)
+
 
 ![image](https://user-images.githubusercontent.com/40049149/186203296-118df5a1-eea3-4731-a9a2-ad6322d11426.png)
 
