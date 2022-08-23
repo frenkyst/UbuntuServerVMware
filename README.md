@@ -63,19 +63,19 @@
 
 ![image](https://user-images.githubusercontent.com/40049149/186171498-3f2b3462-7219-4e4b-994b-3a49bbed0881.png)
 
+   Jika sudah langsung klik saja __Close__.
 
-      Jika sudah langsung klik saja Close.
 
-9. Setelah nanti kalian akan di kembalikan ke halamannya sebelumnya dengan perubahan yang di seting, setelah itu tekan saja di bagian Finish.
+9. Setelah nanti kalian akan di kembalikan ke halamannya sebelumnya dengan perubahan yang di seting, setelah itu tekan saja di bagian __Finish__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186171852-3694604c-b4b6-48f5-ae1e-f5081ea7486c.png)
 ![image](https://user-images.githubusercontent.com/40049149/186172250-2a550167-bdc8-4c7d-a6b4-5cd7b63a4f24.png)
 
-      Jika muncul seperti di gambar klik saja __Close__.
+  Jika muncul seperti di gambar klik saja __Close__.
 
 
-10. Klik OK jika muncul notif berikut dan akan langsung di arahkan ke bagian installasi, disini kalian tunggu saja sampai prosesnya selesai.
+10. Klik __OK__ jika muncul notif berikut dan akan langsung di arahkan ke bagian installasi, disini kalian tunggu saja sampai prosesnya selesai.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186173167-92ec9798-74fb-40eb-91e3-3fdcf883f459.png)
@@ -84,33 +84,44 @@
 ![image](https://user-images.githubusercontent.com/40049149/186173511-389e578a-3311-443b-a49f-8b0e2edd08c3.png)
 
 
-11. Jika muncul tampilan seperti gambar dibawah ini. Setelah itu pilih bahasa yang ingin digunakan English.
+11. Jika muncul tampilan seperti gambar dibawah ini. Setelah itu pilih bahasa yang ingin digunakan __English__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186173710-b5525f78-025c-4c9c-8ab3-cdb43b8261bd.png)
 
 
-Proses ini bisa langsung kalian skip dengan klik Done.
+12. Proses ini bisa langsung kalian skip dengan klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186174033-7652aafd-4625-496d-8e7d-4fbb31c745c0.png)
 
 
-Proses ini pilihan sudah bener ubuntu server klik Done.
+13. Proses ini pilihan sudah bener ubuntu server klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186174164-a8c31518-0d16-42de-84a0-be0ed2cc3d3e.png)
 
 
-Selanjutnya kita akan ubah konfigurasinya dari yang awalnya itu DHCPv4 menjadi Static.
+14. Selanjutnya kita akan ubah konfigurasinya dari yang awalnya itu __DHCPv4__ menjadi __Static__.
 
-      Keterangan:
+    Keterangan:
 
-      -DHCP (Dynamic Host Protocol Configuration) : Alamat IP yang dapat berubah-ubah pada perangkat yang tersambung setiap kali terhubung kembali pada jaringan tersebut (otomatis).
-      -Static : Alamat IP tidak berubah-ubah dari yang telah diberikan oleh adminisitrator (setting manual)
+- __DHCP (Dynamic Host Protocol Configuration)__ : Alamat IP yang dapat berubah-ubah pada perangkat yang tersambung setiap kali terhubung kembali pada jaringan tersebut (otomatis).
+- __Static__ : Alamat IP tidak berubah-ubah dari yang telah diberikan oleh adminisitrator (setting manual)
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186174246-451cb83b-a9c3-4141-943f-48b4ff07cfa3.png)
+
+
+15. Pilih di bagian __ens33__, setelah itu pada bagia __IPv4 Method__ ubah dari yang awalnya __automatic__ menjadi __manual__. Setelah itu masukan detail IP pada form yang tersedia(kalian bisa masukkan saja IP yang sudah tertera di bagian DHCPv4). Jika sudah langsung tekan saja __Save__.
+
+    Keterangan:
+
+- __Subnet__ : Istilah teknologi Informasi yang membedakan Network ID dan Host ID atau sebagai penentu porsi Network ID dan Host ID pada deretan kode biner
+- __Address__ : Alamat IP yang akan digunakan untuk Virtual Machine yang akan kalian buat. (kalian dapat mengisi bagian ini dengan IP yang sudah ada di bagian DHCP)
+- __Gateway__ : Perangkat komputer yang berfungsi untuk mengkoneksikan sebuah Jaringan komputer terhadap satu jaringan komputer yang lain.
+- __Name servers__ : Dibagian __Name servers__ ini kalian cukup memasukkan IP DNS dari google supaya dapat terhubung dengan browser.
+
 
 ![image](https://user-images.githubusercontent.com/40049149/186174367-71dd173e-8d18-47cd-883f-ba2e84f111b6.png)
 
