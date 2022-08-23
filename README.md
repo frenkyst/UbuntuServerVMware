@@ -207,4 +207,11 @@
 ![image](https://user-images.githubusercontent.com/40049149/186198193-fe564d34-4615-4837-bc45-9043cc3a41cf.png)
 
 
+28. Kita sudah selesai untuk tahapan instalasinya. Tunggu saja proses instalasi sampai selesai jika sudah selesai langsung saja klik __Reboot Now__.
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/40049149/186203296-118df5a1-eea3-4731-a9a2-ad6322d11426.png)
+
