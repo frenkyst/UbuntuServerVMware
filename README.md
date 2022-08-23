@@ -216,10 +216,14 @@
 29. Jika tahapan installasi sudah selesai. Masukkan __id__ beserta __password__ yang sudah kalian set-up sebelumnya, Jika sudah maka kalian telah berhasil melakukan instalasi ubuntu server.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186217268-36f985b3-cd90-432e-a193-4b957f4edfa4.png)
-
-
 ![image](https://user-images.githubusercontent.com/40049149/186203296-118df5a1-eea3-4731-a9a2-ad6322d11426.png)
+
+
+30. Untuk make sure apakah server yang kalian buat ini sudah terhubung ke dalam internet bisa gunakan perintah dibawah ini
+
+      ping google.com
+      
+Jika server kalian sudah terhubung ke dalam internet maka akan muncul seperti gambar dibawah ini.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186218953-4652457c-ab9a-447d-80f9-a742aab2c98f.png)
