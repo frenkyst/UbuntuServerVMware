@@ -75,34 +75,44 @@
   Jika muncul seperti di gambar klik saja __Close__.
 
 
-10. Klik __OK__ jika muncul notif berikut dan akan langsung di arahkan ke bagian installasi, disini kalian tunggu saja sampai prosesnya selesai.
+10. Klik __OK__ jika muncul notif berikut dan akan langsung di arahkan ke bagian installasi
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186173167-92ec9798-74fb-40eb-91e3-3fdcf883f459.png)
 ![image](https://user-images.githubusercontent.com/40049149/186173363-012e7046-8e9a-4d8e-be21-28b3783f8b9f.png)
 
+
+11. Tekan __Enter__.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186186358-2bd88581-7ca7-4fe5-989b-abe8dd627eb0.png)
+
+
+12. Disini kalian tunggu saja sampai prosesnya selesai.
+
+
 ![image](https://user-images.githubusercontent.com/40049149/186173511-389e578a-3311-443b-a49f-8b0e2edd08c3.png)
 
 
-11. Jika muncul tampilan seperti gambar dibawah ini. Setelah itu pilih bahasa yang ingin digunakan __English__.
+13. Setelah itu pilih bahasa yang ingin digunakan __English__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186173710-b5525f78-025c-4c9c-8ab3-cdb43b8261bd.png)
 
 
-12. Proses ini bisa langsung kalian skip dengan klik __Done__.
+14. Proses ini bisa langsung kalian skip dengan klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186174033-7652aafd-4625-496d-8e7d-4fbb31c745c0.png)
 
 
-13. Proses ini pilihan sudah bener ubuntu server klik __Done__.
+15. Proses ini pilihan sudah bener ubuntu server klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186174164-a8c31518-0d16-42de-84a0-be0ed2cc3d3e.png)
 
 
-14. Selanjutnya kita akan ubah konfigurasinya dari yang awalnya itu __DHCPv4__ menjadi __Static__.
+16. Selanjutnya kita akan ubah konfigurasinya dari yang awalnya itu __DHCPv4__ menjadi __Static__.
 
     Keterangan:
 
