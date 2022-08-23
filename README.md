@@ -183,19 +183,19 @@
 ![image](https://user-images.githubusercontent.com/40049149/186196727-0bbe52cb-5020-45a2-9096-613616b3d278.png)
 
 
-24. Selanjutnya masukan informasi seperti nama, username, dan password untuk server yang kalian buat. Jika sudah klik saja Done. Lalu akan muncul notifikasi untuk mengkonfirmasi semua konfigurasi yang sudah kita buat. Jika sudah langsung klik saja Continue.
+24. Selanjutnya masukan informasi seperti __nama, username__, dan __password__ untuk server yang kalian buat. Jika sudah klik saja __Done__. Lalu akan muncul notifikasi untuk mengkonfirmasi semua konfigurasi yang sudah kita buat. Jika sudah langsung klik saja __Continue__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186197914-a609a464-0a93-4c8a-92e1-39cd75df591c.png)
 
 
-25. Ditahapan ini jangan lupa untuk checklist bagian Install OpenSSH server gunanya adalah untuk me-remote server yang kita buat.
+25. Ditahapan ini jangan lupa untuk checklist bagian __Install OpenSSH server__ gunanya adalah untuk me-remote server yang kita buat.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186198065-7f5a32d2-5133-4c72-8f38-561d9b1cde56.png)
 
 
-26. Pada tahap selanjutnya skip dengan klik Continue.
+26. Pada tahap selanjutnya skip dengan klik __Continue__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186198193-fe564d34-4615-4837-bc45-9043cc3a41cf.png)
