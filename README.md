@@ -123,7 +123,7 @@
 ![image](https://user-images.githubusercontent.com/40049149/186174246-451cb83b-a9c3-4141-943f-48b4ff07cfa3.png)
 
 
-15. Pilih di bagian __ens33__, setelah itu pada bagia __IPv4 Method__ ubah dari yang awalnya __automatic__ menjadi __manual__. Setelah itu masukan detail IP pada form yang tersedia(kalian bisa masukkan saja IP yang sudah tertera di bagian DHCPv4). Jika sudah langsung tekan saja __Save__.
+17. Pilih di bagian __ens33__, setelah itu pada bagia __IPv4 Method__ ubah dari yang awalnya __automatic__ menjadi __manual__. Setelah itu masukan detail IP pada form yang tersedia(kalian bisa masukkan saja IP yang sudah tertera di bagian DHCPv4). Jika sudah langsung tekan saja __Save__.
 
     Keterangan:
 
@@ -138,44 +138,74 @@
 
 ![image](https://user-images.githubusercontent.com/40049149/186187898-cdf40983-19c1-4ea2-9f3e-544fa9631847.png)
 
+![image](https://user-images.githubusercontent.com/40049149/186189397-e17b98d1-bd9b-4bec-9ea7-e747b9cd1537.png)
+
+18. Jika konfigurasi sudah selesai maka akan ada perubahan di bagian __DHCPv4__ tadi menjadi __static__.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186189567-62480450-708e-4954-8d95-068ee271f734.png)
+
+
+19. Pada tahap selanjutnya kalian bisa skip dengan klik Done.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186189870-a960b4ea-1803-435d-b73a-870846523e65.png)
+
+
+20. Pada tahap selanjutnya kalian bisa skip dengan klik Done.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186190231-991c5a41-c09c-4d81-824f-7ba4f37493cc.png)
+
+
+21. Disini kita dapat memilih bagian Custom storage layout. Kenapa kita memilih Custom storage layout karena kita akan membuat 2 buah partisi, jika sudah kalian pilih setelah itu langsung saja klik Done.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186191873-036b19b0-f470-4294-bc4d-2ff164900b4d.png)
+
+
+22. Selanjutnya disini kita akan membuat 2 buah partisi untuk root dan swap. Langsung pilih saja di bagian /dev/sda lalu pilih di bagian Add GPT Partition. Untuk kapasitasnya kalian bisa samakan saja dengan gambar dibawah (kecuali untuk swap, kalian bisa setting semau kalian apabila merasa kurang).
+
+    Keterangan :
+
+- root adalah tempat dimana sistem kita itu ter-install.
+- swap adalah suatu memory cadangan yang akan digunakan untuk server kita apabila memory utama sudah penuh.
 
 
 
 
 
-![image](https://user-images.githubusercontent.com/40049149/186174367-71dd173e-8d18-47cd-883f-ba2e84f111b6.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186174455-4ad5d706-4792-4c71-9bfe-cfe082b6eac8.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186174545-6b5f6efc-cc95-4a2c-afe7-c3f96da76640.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186174737-d183a31c-574a-40b7-9e46-36d3481c0d93.png)
 
-![image](https://user-images.githubusercontent.com/40049149/186174786-e32303a9-fc39-47c0-864a-a18729ef8986.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 Lalu akan muncul notifikasi untuk mengkonfirmasi semua konfigurasi yang sudah kita buat. Jika sudah langsung klik saja Continue.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186174886-6912d8e3-6889-469f-ada0-76b1df5bd4e9.png)
 
 
 Selanjutnya masukan informasi seperti nama, username, dan password untuk server yang kalian buat. Jika sudah klik saja Done.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186175188-c52d6978-f13f-4be1-ab38-3befd87568d9.png)
-
 
 Ditahapan ini jangan lupa untuk checklist bagian Install OpenSSH server gunanya adalah untuk me-remote server yang kita buat.
 
 
-![image](https://user-images.githubusercontent.com/40049149/186175598-a6f8a785-9a2c-4856-8051-de041cafa636.png)
 
 
 Pada tahap selanjutnya skip dengan klik Continue.
 
-
-![image](https://user-images.githubusercontent.com/40049149/186175691-8d94bea3-37e6-44d2-831a-d0cc5f215ee1.png)
-
-![image](https://user-images.githubusercontent.com/40049149/186175758-3f27e544-ba16-45c0-8069-d435572f16e9.png)
 
