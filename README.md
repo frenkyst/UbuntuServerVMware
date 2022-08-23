@@ -72,7 +72,7 @@
 ![image](https://user-images.githubusercontent.com/40049149/186171852-3694604c-b4b6-48f5-ae1e-f5081ea7486c.png)
 ![image](https://user-images.githubusercontent.com/40049149/186172250-2a550167-bdc8-4c7d-a6b4-5cd7b63a4f24.png)
 
-      Jika muncul seperti di gambar klik saja Close.
+      Jika muncul seperti di gambar klik saja __Close__.
 
 
 10. Klik OK jika muncul notif berikut dan akan langsung di arahkan ke bagian installasi, disini kalian tunggu saja sampai prosesnya selesai.
@@ -89,9 +89,26 @@
 
 ![image](https://user-images.githubusercontent.com/40049149/186173710-b5525f78-025c-4c9c-8ab3-cdb43b8261bd.png)
 
+
+Proses ini bisa langsung kalian skip dengan klik Done.
+
+
 ![image](https://user-images.githubusercontent.com/40049149/186174033-7652aafd-4625-496d-8e7d-4fbb31c745c0.png)
 
+
+Proses ini pilihan sudah bener ubuntu server klik Done.
+
+
 ![image](https://user-images.githubusercontent.com/40049149/186174164-a8c31518-0d16-42de-84a0-be0ed2cc3d3e.png)
+
+
+Selanjutnya kita akan ubah konfigurasinya dari yang awalnya itu DHCPv4 menjadi Static.
+
+      Keterangan:
+
+      -DHCP (Dynamic Host Protocol Configuration) : Alamat IP yang dapat berubah-ubah pada perangkat yang tersambung setiap kali terhubung kembali pada jaringan tersebut (otomatis).
+      -Static : Alamat IP tidak berubah-ubah dari yang telah diberikan oleh adminisitrator (setting manual)
+
 
 ![image](https://user-images.githubusercontent.com/40049149/186174246-451cb83b-a9c3-4141-943f-48b4ff07cfa3.png)
 
@@ -124,7 +141,7 @@ Ditahapan ini jangan lupa untuk checklist bagian Install OpenSSH server gunanya 
 ![image](https://user-images.githubusercontent.com/40049149/186175598-a6f8a785-9a2c-4856-8051-de041cafa636.png)
 
 
-Pada tahap selanjutnya skip dengan klik Done.
+Pada tahap selanjutnya skip dengan klik Continue.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186175691-8d94bea3-37e6-44d2-831a-d0cc5f215ee1.png)
