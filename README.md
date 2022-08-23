@@ -145,31 +145,42 @@
 ![image](https://user-images.githubusercontent.com/40049149/186195038-57feb6f7-7c11-47fc-8968-fd772c741e6e.png)
 
 
-19. Pada tahap selanjutnya kalian bisa skip dengan klik Done.
+19. Pada tahap selanjutnya kalian bisa skip dengan klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186195404-98249148-21c6-4b89-8caf-8a61785ec7a4.png)
 
 
-20. Pada tahap selanjutnya kalian bisa skip dengan klik Done.
+20. Pada tahap selanjutnya kalian bisa skip dengan klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186195452-4c2200d5-df95-4760-97b7-a1b518c5daf9.png)
 
 
-21. Disini kita dapat memilih bagian Custom storage layout. Kenapa kita memilih Custom storage layout karena kita akan membuat 2 buah partisi, jika sudah kalian pilih setelah itu langsung saja klik Done.
+21. Disini kita dapat memilih bagian __Custom storage layout__. Kenapa kita memilih Custom storage layout karena kita akan membuat 2 buah partisi, jika sudah kalian pilih setelah itu langsung saja klik __Done__.
 
 
 ![image](https://user-images.githubusercontent.com/40049149/186195591-d372386a-28dc-4b7e-87e9-257824d38962.png)
 
 
-22. Selanjutnya disini kita akan membuat 2 buah partisi untuk root dan swap. Langsung pilih saja di bagian /dev/sda lalu pilih di bagian Add GPT Partition. Untuk kapasitasnya kalian bisa samakan saja dengan gambar dibawah (kecuali untuk swap, kalian bisa setting semau kalian apabila merasa kurang).
+22. Selanjutnya disini kita akan membuat 2 buah partisi untuk __root__ dan __swap__. Langsung pilih saja di bagian __free space__ lalu pilih di bagian __Add GPT Partition__. Untuk kapasitasnya kalian bisa samakan saja dengan gambar dibawah (kecuali untuk swap, kalian bisa setting semau kalian apabila merasa kurang).
 
     Keterangan :
 
-- root adalah tempat dimana sistem kita itu ter-install.
-- swap adalah suatu memory cadangan yang akan digunakan untuk server kita apabila memory utama sudah penuh.
+- __root__ adalah tempat dimana sistem kita itu ter-install.
+- __swap__ adalah suatu memory cadangan yang akan digunakan untuk server kita apabila memory utama sudah penuh.
 
+![image](https://user-images.githubusercontent.com/40049149/186196208-a567e277-cf56-4109-8f9d-f5bf464abb69.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186196390-0d1daec9-e5c4-4b4e-81d4-15550242befa.png)
+
+![image](https://user-images.githubusercontent.com/40049149/186196666-2f9138ea-8533-44b5-84f7-333415df9281.png)
+
+
+23. Jika sudah disini kita sudah berhasil membuat 2 partisi untuk __root__ dan __swap__. Jika sudah langsung saja klik __Done__.
+
+
+![image](https://user-images.githubusercontent.com/40049149/186196727-0bbe52cb-5020-45a2-9096-613616b3d278.png)
 
 
 
